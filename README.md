@@ -212,7 +212,3 @@ documind/
 ```
 
 ---
-
-## License
-
-MIT
